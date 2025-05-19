@@ -6,3 +6,8 @@ Use icons from lucide-react for logos.
 
 Use stock photos from unsplash where appropriate, only valid URLs you know exist. Do not download the images, only link to them in image tags.
 
+Add .npmrc file in root
+
+Do npm i @eureka/auth-intercept-lib
+
+use CustomFetchClient from auth-intercept-lib intead of axios for api call, this will be similar to axis
